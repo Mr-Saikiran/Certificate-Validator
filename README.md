@@ -6,6 +6,6 @@ This is a command that runs in loop to check the SSL certificate expiry date in 
 Steps :
 
 1. Copy this to your local server or wherever openssl installed with shell 
-2. Run the file sh or ./
+2. Execute this shell script
 3. Give the website name, This prints expiry date
 4. You can go for another website or quit the command with Ctrl + C
